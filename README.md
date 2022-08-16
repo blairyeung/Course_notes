@@ -1,2 +1,7 @@
 # Course_notes
-This is the MAT223/224 course note for the University of Toronto.
+My course notes
+## Math (MAT)
+MAT223 Linear Algebra I
+MAT224/247 Linear Algebra II/ Algebra II
+MAT237 Multivariable Calculus
+## Computer Science (CSC)
