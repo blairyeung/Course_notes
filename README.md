@@ -1,5 +1,5 @@
 # Course_notes
-My course notes
+弘扬开源精神
 ## Math (MAT)
 MAT223 Linear Algebra I.   
 MAT224/247 Linear Algebra II/ Algebra II.   
